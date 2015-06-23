@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/css?family=Fugaz+One);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+* {
+  font-family: 'Nanum Gothic', serif;
+}
+body {
+  background: #eee;
+}
+.jumbotron {
+  background: url('../img/polygon.jpg');
+  overflow: hidden;
+  text-align: center;
+  color: #fff;
+}
+.jumbotron h1, .jumbotron h1 a {
+  font-family: 'Fugaz One', cursive;
+  color: #fff;
+  text-decoration: none;
+}
+.panel-default {
+  text-align: center;
+}
+.panel-body a {
+  text-decoration: none;
+}
+.well {
+  font-family: 'Source Code Pro', serif;
+}
